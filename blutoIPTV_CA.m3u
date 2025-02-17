@@ -1,5 +1,7 @@
-#EXTM3U url-tvg="https://raw.github.com/Neywerson/blutoIPTV/main/blutoIPTV_ca.xml.gz"
+#EXTM3U url-tvg="https://raw.github.com/Neywerson/blutoIPTV/main/blutoIPTV_CA.xml.gz"
 # Created with ❤️ by Neywerson
+# Site: https://github.com/Neywerson
+# Last update: 17-02-2025 11:58:48
 #EXTINF:-1 tvg-id="677f92205b68381e2db8cff2" tvg-name="Pluto TV In Love" tvg-logo="https://images.pluto.tv/channels/677f92205b68381e2db8cff2/colorLogoPNG.png" group-title="New on Pluto TV" tvg-chno="1", Pluto TV In Love
 https://stitcher.pluto.tv/stitch/hls/channel/677f92205b68381e2db8cff2/master.m3u8?CreatedWithS2by=Neywerson&deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dbe5fe46-ed11-11ef-acc9-568d36a5ae47
 
